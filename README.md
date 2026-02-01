@@ -1,4 +1,5 @@
 File: CTD
+
 • Independently developed a complete FDA CTD submission for Ceftriaxone Sodium, demonstrating understanding
 of regulatory documentation structure and requirements.
 
